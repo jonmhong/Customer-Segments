@@ -1,6 +1,8 @@
 # Creating Customer Segments
 
-Unsupervised Learning Project
+This unsupervised learning project takes in the dataset applies PCA to find correlations among the buying behavior of customers. The project implements ICA to also analyze the anticorrelation buyer behavior. After scaling and reducing the data the k-means and gaussian mixture models clustering algorithms are used to find any clusters in the dataset. After deciding the appropriate number of clusters to use for the dataset, we take the coordinates of the cluster centers and analyze the general buying behavior of each cluster.
+
+Using this information, we can categorize buyers and use a more effective and efficient delivery system.
 
 ## Template code
 
